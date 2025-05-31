@@ -1,6 +1,6 @@
 # Titanic EDA Insights 🚢📊
 
-This repository contains exploratory data analysis (EDA) performed on the Titanic dataset as part of the AI & ML Internship Task 2.
+This repository contains exploratory data analysis (EDA) performed on the Titanic dataset.
 
 ## 📌 Objective
 The goal of this task was to extract insights and patterns from the Titanic dataset using visualizations and descriptive statistics.
@@ -29,7 +29,3 @@ The goal of this task was to extract insights and patterns from the Titanic data
 
 ## 🧩 Dataset
 [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-
----
-
-> ✨ Submitted as part of AI & ML Internship Exploratory Data Analysis Task.
