@@ -6,7 +6,7 @@ This repository contains exploratory data analysis (EDA) performed on the Titani
 The goal of this task was to extract insights and patterns from the Titanic dataset using visualizations and descriptive statistics.
 
 ## 📁 Files Included
-- `task2.ipynb` — Jupyter notebook containing all the code, analysis, and visualizations.
+- `task.ipynb` — Jupyter notebook containing all the code, analysis, and visualizations.
 - `Titanic-Dataset.csv` — Dataset used for the analysis.
 - `.gitignore` — Python-specific ignore rules to keep the repo clean.
 
